@@ -1,0 +1,7 @@
+  VITE v8.0.1  ready in 383 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+npm run dev
